@@ -1,56 +1,56 @@
-\# Hi, I'm Ivan Josue Vargas Lopez 👋
+﻿# Hi, I'm Ivan Josue Vargas Lopez ðŸ‘‹
 
 
 
-\### Nanotechnology Engineering | Scientific Instrumentation | Python Automation | Materials Characterization
+### Nanotechnology Engineering | Scientific Instrumentation | Python Automation | Materials Characterization
 
 
 
-I am a \*\*Nanotechnology Engineering undergraduate at Yachay Tech University\*\* interested in the intersection of \*\*nanotechnology, scientific instrumentation, semiconductor characterization, automation, and scientific computing\*\*.
+I am a **Nanotechnology Engineering undergraduate at Yachay Tech University** interested in the intersection of **nanotechnology, scientific instrumentation, semiconductor characterization, automation, and scientific computing**.
 
 
 
-My work focuses on developing tools that connect \*\*experimental science with software and hardware\*\*, including Python applications for laboratory instrumentation, automated data acquisition, scientific data processing, spectroscopy analysis, and CAD design for experimental systems.
+My work focuses on developing tools that connect **experimental science with software and hardware**, including Python applications for laboratory instrumentation, automated data acquisition, scientific data processing, spectroscopy analysis, and CAD design for experimental systems.
 
 
 
-\---
+---
 
 
 
-\## 🔬 Main Areas of Interest
+## ðŸ”¬ Main Areas of Interest
 
 
 
-\- Nanotechnology
+- Nanotechnology
 
-\- Semiconductor \& Microelectronic Device Characterization
+- Semiconductor \& Microelectronic Device Characterization
 
-\- Scientific Instrumentation
+- Scientific Instrumentation
 
-\- Python Automation
+- Python Automation
 
-\- Materials Characterization
+- Materials Characterization
 
-\- Raman \& Optical Spectroscopy
+- Raman \& Optical Spectroscopy
 
-\- Scientific Data Analysis
+- Scientific Data Analysis
 
-\- Instrument Control \& Data Acquisition
+- Instrument Control \& Data Acquisition
 
-\- CAD \& 3D Design for Laboratory Systems
-
-
-
-\---
+- CAD \& 3D Design for Laboratory Systems
 
 
 
-\## 🚀 Featured Projects
+---
 
 
 
-\### ⚡ Semiconductor Characterization Platform
+## ðŸš€ Featured Projects
+
+
+
+### âš¡ Semiconductor Characterization Platform
 
 
 
@@ -58,63 +58,63 @@ Development of a modular platform for the electrical characterization of semicon
 
 
 
-The system integrates multiple \*\*Keysight laboratory instruments\*\* through Python using USB and LAN communication.
+The system integrates multiple **Keysight laboratory instruments** through Python using USB and LAN communication.
 
 
 
-\*\*Integrated instruments:\*\*
+**Integrated instruments:**
 
 
 
-\- Oscilloscope
+- Oscilloscope
 
-\- Digital Multimeter
+- Digital Multimeter
 
-\- Function Generator
+- Function Generator
 
-\- DC Power Supply
-
-
-
-\*\*Main capabilities:\*\*
+- DC Power Supply
 
 
 
-\- Automated instrument configuration
-
-\- Remote instrument control
-
-\- Automated data acquisition
-
-\- I–V characterization
-
-\- C–V characterization
-
-\- Four-point electrical measurements
-
-\- Experimental workflow automation
-
-\- Data visualization and processing
+**Main capabilities:**
 
 
 
-\*\*Technologies:\*\*
+- Automated instrument configuration
+
+- Remote instrument control
+
+- Automated data acquisition
+
+- Iâ€“V characterization
+
+- Câ€“V characterization
+
+- Four-point electrical measurements
+
+- Experimental workflow automation
+
+- Data visualization and processing
 
 
 
-`Python` · `PyVISA` · `Tkinter` · `USB/LAN Communication` · `Keysight Instrumentation`
+**Technologies:**
 
 
 
-The project also includes the development of a \*\*low-cost four-point semiconductor probe station\*\*, including its mechanical and CAD design.
+`Python` Â· `PyVISA` Â· `Tkinter` Â· `USB/LAN Communication` Â· `Keysight Instrumentation`
 
 
 
-\---
+The project also includes the development of a **low-cost four-point semiconductor probe station**, including its mechanical and CAD design.
 
 
 
-\### 📊 Scientific Characterization Tools
+---
+
+
+
+### ðŸ“Š Scientific Characterization Tools
 
 
 
@@ -126,7 +126,7 @@ The objective is to transform raw experimental files into clear and reproducible
 
 
 
-\#### Raman Spectroscopy
+#### Raman Spectroscopy
 
 
 
@@ -134,39 +134,21 @@ Python tools for:
 
 
 
-\- Raman spectrum visualization
+- Raman spectrum visualization
 
-\- Peak detection
+- Peak detection
 
-\- Spectrum comparison
+- Spectrum comparison
 
-\- Reference spectrum comparison
+- Reference spectrum comparison
 
-\- Experimental data processing
+- Experimental data processing
 
-\- SERS analysis
-
-
-
-\#### UV–Vis Spectroscopy
+- SERS analysis
 
 
 
-Python tools for:
-
-
-
-\- Absorbance and transmittance visualization
-
-\- Spectrum comparison
-
-\- Experimental dataset processing
-
-\- Optical characterization analysis
-
-
-
-\#### X-Ray Diffraction — XRD
+#### UVâ€“Vis Spectroscopy
 
 
 
@@ -174,35 +156,17 @@ Python tools for:
 
 
 
-\- XRD pattern visualization
+- Absorbance and transmittance visualization
 
-\- Peak identification
+- Spectrum comparison
 
-\- Pattern comparison
+- Experimental dataset processing
 
-\- Structural characterization workflows
-
-
-
-\#### FTIR Spectroscopy
+- Optical characterization analysis
 
 
 
-Python tools for:
-
-
-
-\- FTIR spectrum visualization
-
-\- Peak analysis
-
-\- Spectrum comparison
-
-\- Functional-group characterization workflows
-
-
-
-\#### Magnetometry
+#### X-Ray Diffraction â€” XRD
 
 
 
@@ -210,33 +174,69 @@ Python tools for:
 
 
 
-\- Magnetic measurement visualization
+- XRD pattern visualization
 
-\- Experimental data comparison
+- Peak identification
 
-\- Magnetic behavior analysis
+- Pattern comparison
 
-\- Processing magnetometry datasets
-
-
-
-\*\*Main stack:\*\*
+- Structural characterization workflows
 
 
 
-`Python` · `NumPy` · `Pandas` · `Matplotlib` · `SciPy`
+#### FTIR Spectroscopy
 
 
 
-\---
+Python tools for:
 
 
 
-\## 🩸 SERS \& Raman Analysis of Hemoglobin
+- FTIR spectrum visualization
+
+- Peak analysis
+
+- Spectrum comparison
+
+- Functional-group characterization workflows
 
 
 
-My undergraduate research investigates the use of \*\*silver nanostructures as SERS substrates for the optical characterization of hemoglobin oxygenation\*\*.
+#### Magnetometry
+
+
+
+Python tools for:
+
+
+
+- Magnetic measurement visualization
+
+- Experimental data comparison
+
+- Magnetic behavior analysis
+
+- Processing magnetometry datasets
+
+
+
+**Main stack:**
+
+
+
+`Python` Â· `NumPy` Â· `Pandas` Â· `Matplotlib` Â· `SciPy`
+
+
+
+---
+
+
+
+## ðŸ©¸ SERS \& Raman Analysis of Hemoglobin
+
+
+
+My undergraduate research investigates the use of **silver nanostructures as SERS substrates for the optical characterization of hemoglobin oxygenation**.
 
 
 
@@ -244,17 +244,17 @@ The project includes the development of Python tools to:
 
 
 
-\- Process Raman spectra
+- Process Raman spectra
 
-\- Detect spectral peaks
+- Detect spectral peaks
 
-\- Compare experimental spectra
+- Compare experimental spectra
 
-\- Analyze oxygenated and deoxygenated hemoglobin
+- Analyze oxygenated and deoxygenated hemoglobin
 
-\- Compare measurements with reference spectral data
+- Compare measurements with reference spectral data
 
-\- Visualize experimental results
+- Visualize experimental results
 
 
 
@@ -262,23 +262,23 @@ This work combines:
 
 
 
-`Nanotechnology` · `Raman Spectroscopy` · `SERS` · `Python` · `Scientific Data Analysis`
+`Nanotechnology` Â· `Raman Spectroscopy` Â· `SERS` Â· `Python` Â· `Scientific Data Analysis`
 
 
 
-\---
+---
 
 
 
-\## 🛠️ CAD \& 3D Engineering
+## ðŸ› ï¸ CAD \& 3D Engineering
 
 
 
-\### Semiconductor Probe Station
+### Semiconductor Probe Station
 
 
 
-CAD development of a low-cost experimental platform designed to position \*\*four electrical probes\*\* for semiconductor characterization.
+CAD development of a low-cost experimental platform designed to position **four electrical probes** for semiconductor characterization.
 
 
 
@@ -286,11 +286,11 @@ The mechanical system is designed to complement the Python-controlled instrument
 
 
 
-\---
+---
 
 
 
-\### 🔬 Low-Cost Optical Microscope
+### ðŸ”¬ Low-Cost Optical Microscope
 
 
 
@@ -302,23 +302,23 @@ The project includes:
 
 
 
-\- Optical system design
+- Optical system design
 
-\- Mechanical design
+- Mechanical design
 
-\- 3D modeling
+- 3D modeling
 
-\- 3D-printable components
+- 3D-printable components
 
-\- Prototype construction and testing
-
-
-
-\---
+- Prototype construction and testing
 
 
 
-\## 🧪 Research Experience
+---
+
+
+
+## ðŸ§ª Research Experience
 
 
 
@@ -326,47 +326,47 @@ My research experience includes:
 
 
 
-\- Semiconductor device characterization
+- Semiconductor device characterization
 
-\- Thin-film deposition
+- Thin-film deposition
 
-\- Sputtering
+- Sputtering
 
-\- Raman spectroscopy
+- Raman spectroscopy
 
-\- SERS
+- SERS
 
-\- UV–Vis spectroscopy
+- UVâ€“Vis spectroscopy
 
-\- XRD
+- XRD
 
-\- FTIR
+- FTIR
 
-\- Optical microscopy
+- Optical microscopy
 
-\- Nanomaterial synthesis
+- Nanomaterial synthesis
 
-\- Magnetic materials
+- Magnetic materials
 
-\- Scientific instrumentation
+- Scientific instrumentation
 
-\- Automated experimental measurements
-
-
-
-\---
+- Automated experimental measurements
 
 
 
-\## 📚 Research \& Publications
+---
 
 
 
-\### Magnetic Ferrotitaniferous Sands for Microplastic Removal
+## ðŸ“š Research \& Publications
 
 
 
-\*\*Microplastics, 2026\*\*
+### Magnetic Ferrotitaniferous Sands for Microplastic Removal
+
+
+
+**Microplastics, 2026**
 
 
 
@@ -374,11 +374,11 @@ Research focused on magnetic materials for microplastic removal, including mater
 
 
 
-\---
+---
 
 
 
-\### SERS Investigation of Hemoglobin Oxygenation in Blood
+### SERS Investigation of Hemoglobin Oxygenation in Blood
 
 
 
@@ -386,11 +386,11 @@ Undergraduate research focused on Raman/SERS characterization of hemoglobin usin
 
 
 
-\---
+---
 
 
 
-\### Modular Characterization Platform for Semiconductor and Microelectronic Devices
+### Modular Characterization Platform for Semiconductor and Microelectronic Devices
 
 
 
@@ -398,115 +398,116 @@ Development of a Python-controlled laboratory platform for automated electrical 
 
 
 
-\---
+---
 
 
 
-\## 💻 Technologies \& Tools
+## ðŸ’» Technologies \& Tools
 
 
 
-\### Programming \& Automation
+### Programming \& Automation
 
 
 
-!\[Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 
-!\[C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
 
-!\[Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge\&logo=arduino\&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge\&logo=arduino\&logoColor=white)
 
-!\[Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 
-!\[GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
 
 
 
-`PyVISA` · `Tkinter` · `NumPy` · `Pandas` · `Matplotlib` · `SciPy`
+`PyVISA` Â· `Tkinter` Â· `NumPy` Â· `Pandas` Â· `Matplotlib` Â· `SciPy`
 
 
 
-\### Scientific Characterization
+### Scientific Characterization
 
 
 
-`Raman` · `SERS` · `UV–Vis` · `FTIR` · `XRD` · `SEM` · `TEM` · `EDS` · `AFM` · `XPS`
+`Raman` Â· `SERS` Â· `UVâ€“Vis` Â· `FTIR` Â· `XRD` Â· `SEM` Â· `TEM` Â· `EDS` Â· `AFM` Â· `XPS`
 
 
 
-\### Instrumentation
+### Instrumentation
 
 
 
-`Oscilloscopes` · `Digital Multimeters` · `Function Generators` · `DC Power Supplies` · `Keysight Instruments`
+`Oscilloscopes` Â· `Digital Multimeters` Â· `Function Generators` Â· `DC Power Supplies` Â· `Keysight Instruments`
 
 
 
-\### Engineering \& Scientific Tools
+### Engineering \& Scientific Tools
 
 
 
-`CAD` · `Onshape` · `LaTeX` · `Origin` · `MySQL`
+`CAD` Â· `Onshape` Â· `LaTeX` Â· `Origin` Â· `MySQL`
 
 
 
-\---
+---
 
 
 
-\## 🔭 What I'm Currently Working On
+## ðŸ”­ What I'm Currently Working On
 
 
 
-\- Building a modular semiconductor characterization platform
+- Building a modular semiconductor characterization platform
 
-\- Automating scientific instrumentation with Python
+- Automating scientific instrumentation with Python
 
-\- Developing scientific data-processing tools
+- Developing scientific data-processing tools
 
-\- Raman and SERS analysis
+- Raman and SERS analysis
 
-\- Semiconductor electrical characterization
+- Semiconductor electrical characterization
 
-\- Low-cost experimental hardware
+- Low-cost experimental hardware
 
-\- CAD and 3D design for scientific instrumentation
+- CAD and 3D design for scientific instrumentation
 
 
 
-\---
+---
 
 
 
-\## 🌎 Languages
+## ðŸŒŽ Languages
 
 
 
-\- 🇪🇨 Spanish — Native
+- ðŸ‡ªðŸ‡¨ Spanish â€” Native
 
-\- 🇬🇧 English — C1
+- ðŸ‡¬ðŸ‡§ English â€” C1
 
 
 
-\---
+---
 
 
 
-\## 🤝 Connect With Me
+## ðŸ¤ Connect With Me
 
 
 
-\[!\[LinkedIn](https://img.shields.io/badge/LinkedIn-Ivan%20Josue%20Vargas%20Lopez-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/ivan-josue-vargas-lopez-b2aa251b5/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ivan%20Josue%20Vargas%20Lopez-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/ivan-josue-vargas-lopez-b2aa251b5/)
 
 
 
-\---
+---
 
 
 
-\### ⚙️ From experimental data to scientific insight
+### âš™ï¸ From experimental data to scientific insight
 
 
 
-I am particularly interested in developing \*\*accessible, reproducible, and automated tools for scientific research\*\*, combining nanotechnology, programming, instrumentation, and engineering.
+I am particularly interested in developing **accessible, reproducible, and automated tools for scientific research**, combining nanotechnology, programming, instrumentation, and engineering.
+
 
